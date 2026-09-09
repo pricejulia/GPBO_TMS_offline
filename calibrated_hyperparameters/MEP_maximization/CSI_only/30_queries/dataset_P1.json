@@ -1,0 +1,11 @@
+{
+    "dataset": "P1",
+    "exp_type": "Cint_only",
+    "max_it": 30,
+    "kappa": 3,
+    "rho_min": 0.1,
+    "rho_max": 3.0,
+    "noise_min": 0.1,
+    "noise_max": 2,
+    "random_pts": 10
+}

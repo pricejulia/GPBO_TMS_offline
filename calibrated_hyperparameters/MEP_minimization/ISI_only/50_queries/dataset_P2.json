@@ -1,0 +1,11 @@
+{
+    "dataset": "P2",
+    "exp_type": "ISI_only",
+    "max_it": 50,
+    "kappa": 9,
+    "rho_min": 0.2,
+    "rho_max": 2.0,
+    "noise_min": 0.01,
+    "noise_max": 0.75,
+    "random_pts": 15
+}

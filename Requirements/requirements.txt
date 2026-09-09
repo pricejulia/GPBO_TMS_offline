@@ -1,0 +1,6 @@
+gpytorch==1.14
+matplotlib==3.10.3
+numpy==2.2.6
+scipy==1.15.3
+torch==2.7.1
+tqdm==4.67.1

@@ -1,0 +1,11 @@
+{
+    "dataset": "P4",
+    "exp_type": "Both",
+    "max_it": 100,
+    "kappa": 9,
+    "rho_min": 0.002,
+    "rho_max": 4.0,
+    "noise_min": 0.1,
+    "noise_max": 0.5,
+    "random_pts": 2
+}

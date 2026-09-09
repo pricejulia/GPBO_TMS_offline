@@ -1,0 +1,11 @@
+{
+    "dataset": "P3",
+    "exp_type": "ISI_only",
+    "max_it": 40,
+    "kappa": 9,
+    "rho_min": 1,
+    "rho_max": 4.0,
+    "noise_min": 0.05,
+    "noise_max": 0.5,
+    "random_pts": 2
+}

@@ -1,0 +1,8 @@
+Results
+*.p
+!Data/
+!Data/*.p
+*.pyc
+__pycache__/
+.DS_Store
+Data_backup_with_metadata/

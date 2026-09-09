@@ -1,0 +1,29 @@
+{
+ "exp_type": "ISI_only",
+ "GP_library": "GPy_torch",
+ "torch_device": "cpu",
+ "offline": true,
+
+ "max_it": 200,
+ "repeats": 10,
+ "verbose": false,
+
+"kappa": {"default": 15.0},
+"rho_min": {"default": 0.05},
+"rho_max": {"default": 3.0},
+"noise_min": {"default": 0.01},
+"noise_max": {"default": 5.0},
+"random_pts": {"default": 2},
+
+ "search_space": { 
+    "ISI": [5,6,7,8,9,10,11,12,13,14,15]
+ },
+
+ "NUM_TRIALS": 6,
+ "debug_mode": false,
+ "maximization": true,
+
+"mep_window":[736,856],
+"zero_sample" :616,
+"baseline_window": [100, 580]
+}

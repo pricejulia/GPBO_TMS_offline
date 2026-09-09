@@ -1,0 +1,11 @@
+{
+    "dataset": "P1",
+    "exp_type": "Both",
+    "max_it": 80,
+    "kappa": 7,
+    "rho_min": 0.002,
+    "rho_max": 8.0,
+    "noise_min": 0.125,
+    "noise_max": 0.75,
+    "random_pts": 5
+}
