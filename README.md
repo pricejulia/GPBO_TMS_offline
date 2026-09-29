@@ -1,4 +1,4 @@
-# Gaussian Process Bayesian Optimization for TMS Parameter Selection
+# Gaussian Process-based Bayesian Optimization for TMS Parameter Selection
 
 This repository contains the Python implementation of the Gaussian Process Bayesian Optimization (GP-BO) framework used to optimize dual-site paired-pulse transcranial magnetic stimulation (ds-ppTMS) parameters from experimentally collected motor-evoked potentials (MEPs).
 
