@@ -497,7 +497,7 @@ The simulations are stochastic because:
 For this reason, results may vary slightly between individual runs. The analyses reported in the study are based on repeated simulations and aggregate performance across repetitions and participants.
 
 ## Associated publication
-This repository accompanies the paper *Automatized personalization of stimulation parameters for cortico-cortical paired associative stimulation*, describing the application of our GP-BO algorithm to individualize ds-ppTMS parameter selection.
+This repository accompanies the paper *Automated personalization of stimulation parameters for cortico-cortical paired associative stimulation*, describing the application of our GP-BO algorithm to individualize ds-ppTMS parameter selection.
 
 The full citation will be added following publication.
 
